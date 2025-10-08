@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'; 
+import { test, expect } from '@playwright/test';
 //  I will storing in sepeate variable i will just say that i need test and i need expect 
 // test function is to declear the test 
 // expect function is to write assertion 
